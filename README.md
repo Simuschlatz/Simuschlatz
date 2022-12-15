@@ -8,7 +8,7 @@
 - 💬 Ask me about **python**
 
 - 📫 How to reach me **simon.mama07@gmail.com**
-- 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
