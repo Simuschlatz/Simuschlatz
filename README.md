@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [CheapChess](https://github.com/Simuschlatz/CheapChess) and my Start-up Luminix
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **not to be stupid** and **tensorflow**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **How to cause bugs**
 
 - 📫 How to reach me **simon.mama07@gmail.com**
 
