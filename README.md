@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **How to cause bugs**
 
-- 📫 How to reach me **simon.mama07@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
