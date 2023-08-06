@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">a high-school junior computer science enthusiast</h3>
+<h3 align="center">a part-time nerd with interests in Deep Learning and algorithms.</h3>
 
 <!-- - 🔭 I’m currently working on **[CheapChess](https://github.com/Simuschlatz/CheapChess)** and my Start-up Luminix -->
 
