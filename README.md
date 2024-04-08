@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **[CheapChess](https://github.com/Simuschlatz/CheapChess)** and my Start-up Luminix -->
 
-- 🌱 I’m currently learning **not to be stupid**
+- 🌱 I’m currently working on **Deep Learning for CT reconstruction**
 
 - 💬 Ask me about **How to cause bugs**
 
