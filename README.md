@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently working on **Deep Learning for CT reconstruction**
 
-- 💬 Ask me about **How to cause bugs**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
